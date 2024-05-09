@@ -10,8 +10,6 @@ Hi! This is the project of the endless intersections of my will and ...
 - my girlfriend will,
 - ...
 
-It wouldn't be smart to share true priority orders right now (lol), but if all of these science would bring us somewhere then the order would naturally/probabilistically unfold, I guess.
-
 --- 
 
 🤸‍♂️ So I'm in the process of making my thesis for my Master Degree in Data Science. 
